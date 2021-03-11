@@ -1,2 +1,0 @@
-# wabot-FxAngga
-Bot wa
